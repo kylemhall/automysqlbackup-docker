@@ -1,0 +1,11 @@
+[client]
+host     = "$DBHOST"
+user     = "$USERNAME"
+password = "$PASSWORD"
+port     = "3306"
+[mysql_upgrade]
+host     = "$DBHOST"
+user     = "$USERNAME"
+password = "$PASSWORD"
+port     = "3306"
+basedir = /usr
